@@ -4,21 +4,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="luta.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Kolawole's Codespaces <span className="heart">♥️</span> LuTA
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Na you come sabi if you like this design or not
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://lutahq.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Visit my website NOW
           </a>
         </p>
       </header>
